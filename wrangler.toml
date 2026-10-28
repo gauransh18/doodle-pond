@@ -1,0 +1,9 @@
+name = "doodlepond"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "doodlepond"
+database_id = "a0e47930-66be-4d46-84a5-87064c0f1d3d"
+migrations_dir = "migrations"
